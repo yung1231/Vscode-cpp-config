@@ -1,0 +1,2 @@
+# Vscode-c-config
+config
